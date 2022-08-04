@@ -121,3 +121,7 @@ cd .ssh
 cat id_rsa.pub
 ```
 3. github账号设置内粘贴公钥
+
+## Reference
+[尚硅谷Git教程](https://www.bilibili.com/video/BV1vy4y1s7k6?p=26&spm_id_from=pageDriver&vd_source=2b824eed4f710ed49f4f1c413234c8c9)
+[SSH登陆问题解决](https://blog.csdn.net/pan337520/article/details/105733663?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-105733663-blog-117107099.pc_relevant_multi_platform_whitelistv1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-105733663-blog-117107099.pc_relevant_multi_platform_whitelistv1&utm_relevant_index=2)
